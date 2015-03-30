@@ -1,9 +1,9 @@
 
 #Content
 
-index.html has [highlight.js](https://highlightjs.org/) for html syntax
-res/csss-gh-pages:index.html has [Lea Verou's slideshow template](https://github.com/LeaVerou/csss)
-res/llc-slidedeck-template:index.html has LLC's derivate of above template
+- index.html has [highlight.js](https://highlightjs.org/) for html syntax
+- res/csss-gh-pages:index.html has [Lea Verou's slideshow template](https://github.com/LeaVerou/csss)
+- res/LLCtemplate:index.html has LLC's derivate of above template
 
 #Notes
 - does LLC use prefixmin
